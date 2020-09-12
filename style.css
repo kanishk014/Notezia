@@ -18,6 +18,8 @@ body {
 .loginbox {
   width: 320px;
   height: 420px;
+  border: none;
+  border-radius: 5px;
   background: #000;
   position: absolute;
   color: #fff;
