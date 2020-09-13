@@ -17,6 +17,7 @@ body {
 
 .loginbox {
   width: 320px;
+  font-family: poppins;
   height: 420px;
   border: none;
   border-radius: 5px;
@@ -37,9 +38,13 @@ body {
 
 h1 {
   margin: 0;
+  margin-top: -20px;
   padding: 0 0 20px;
   text-align: center;
-  font-size: 22px;
+  font-family: Special Elite;
+  letter-spacing: 5px;
+  font-weight: bold;
+  font-size: 28px;
 }
 
 .loginbox p {
